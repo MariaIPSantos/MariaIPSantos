@@ -12,7 +12,7 @@
  
 <br>
  
-### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
+### Pra mais informações, segue contatos abaixo!
  
 <div> 
   <a href="https://discordapp.com/users/1270860955521257575" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
